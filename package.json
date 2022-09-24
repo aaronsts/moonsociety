@@ -13,6 +13,7 @@
   "dependencies": {
     "@astrojs/react": "^1.1.4",
     "@astrojs/tailwind": "^2.0.1",
+    "@fontsource/montserrat": "^4.5.12",
     "astro": "^1.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
